@@ -1,5 +1,12 @@
 # Library-for-LCD-I2C
-Library for LCD I2C
+Library for LCD I2C 
+
+~Works for both 16x2 and 20x4
+
+1. Download Library First
+
+2. Put the Library to the Arduino Library
+
 
 
 # Library : 
