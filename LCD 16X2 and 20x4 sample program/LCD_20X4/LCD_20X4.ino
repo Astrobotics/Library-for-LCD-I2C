@@ -3,7 +3,7 @@
  * function: You should now see your I2C LCD2004 display "Hello,world!","IIC/I2C LCD2004"
  * "20 cols, 4 rows"
 /********************************/
-// Download Library; http://wiki.sunfounder.cc/images/7/7e/LiquidCrystal_I2C.zip
+// Download Library; https://github.com/Astrobotics/Library-for-LCD-I2C
 #include <Wire.h> 
 #include <LiquidCrystal_I2C.h>
 LiquidCrystal_I2C lcd(0x27,20,4);  // set the LCD address to 0x27 for a 16 chars and 2 line display
